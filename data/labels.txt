@@ -1,0 +1,4 @@
+entertainment=1
+health=2
+politics=3
+sports=4
