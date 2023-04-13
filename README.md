@@ -1,8 +1,8 @@
 # AfaanOromoonewsclassification
 ## Methodology
 In this work we proposed to classify Afaan Oromoo news using Long Short Term Memory(LSTM). Long short-term memory (LSTM) is a deep learning architecture based on an artificial recurrent neural network (RNN). These are special types of neural networks which are designed to work well when one has sequence data set and there exists a long term dependency. These networks can be useful when one needs a network to remember information for a longer period. This feature makes LSTM suitable for processing textual data. Fig. 1 shows a typical architecture of an LSTM. As it can be seen in the diagram, an LSTM is a collection of similar cells, whereas each cell processes the input in a specific approach. Apart from the input from external sources, each cell also receives inputs from its earlier cell in the chain. This arrangement of cells, facilitates LSTM to remember earlier information for a longer time.
- ![tadesse381/AfaanOromoonewsclassification](data/LSTM.png)
-      Fig. 1. Architecture of LSTM
+ ![tadesse381/AfaanOromoonewsclassification](data/LSTM.png
+ Fig. 1. Architecture of LSTM
 The LSTM is made up of four neural networks and numerous memory blocks known as cells in a chain structure. A conventional LSTM unit consists of a cell, an input gate, an output gate, and a forget gate. The flow of information into and out of the cell is controlled by three gates, and the cell remembers values over arbitrary time intervals. The LSTM algorithm is well adapted to categorize, analyze, and predict time series of uncertain duration. The cells store information, whereas the gates manipulate memory. There are three entrances:
 •	Input Gate: It determines which of the input values should be used to change the memory. The sigmoid function determines whether to allow 0 or 1 values through. And the tanh function assigns weight to the data provided, determining their importance on a scale of -1 to 1.
  
