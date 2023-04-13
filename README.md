@@ -38,6 +38,4 @@ In this work, we’ve trained our simple LSTM model to classify Afaan Oromoo new
 
 1. [Maraf Menegesha](https://github.com/Maraf26)
 2. [Tadesse Kebede](https://github.com/tadesse381)
-![contributors list](https://contrib.rocks/image?repo=tadesse381/AfaanOromoonewsclassification)
 
-Made with [contrib.rocks](https://contrib.rocks)
