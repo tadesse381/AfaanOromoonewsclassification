@@ -34,3 +34,7 @@ Sample of the predicted news are given in the following figure.
  
 ## Conclusion
 In this work, we’ve trained our simple LSTM model to classify Afaan Oromoo news dataset into four categories: entertainment, health, sports and politics and got an accuracy of 72.1%. The result of this work is promising. In the future work, we will train the model with more corpus and further increase model size, tweak the hyperparameters, use another deep learning algorithms and test if the model performs better. 
+## Contributors
+
+1. [Maraf Menegesha](https://github.com/Maraf26)
+2. [Tadesse Kebede](https://github.com/tadesse381)
